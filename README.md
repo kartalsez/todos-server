@@ -13,3 +13,9 @@ In the project directory, you should run steply:
 MongoDB used for database and deployed to MongoDB Atlas. But also you can use MongoDB at local.
 * To use at local, you can use LOCAL_CONNECTION_STRING in constants.js file.
 * To use at MongoDB Atlas, you can use ATLAS_CONNECTION_STRING in constants.js file.
+
+# Deployment to Heroku
+* Procfile has run script.
+* release/todos branch created.
+* GitHub and Heroku connected, Deployment branch is release/todos.
+* Right now, Automatic Deploys are disabled. We deploy manually.
